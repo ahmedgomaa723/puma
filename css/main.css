@@ -250,6 +250,7 @@ header nav .form i{
 .landing .text .content{
   max-width: 500px;
 }
+
 .landing .text .content h2{
 font-size: 32px;
 font-weight: normal;
@@ -567,7 +568,7 @@ margin-bottom: 20px;
     margin-top: -120px;
     max-width: 100%;
   }
-  @media(max-width:767){
+  @media(max-width:767px){
     .about img{
  
       bottom: -60px;
