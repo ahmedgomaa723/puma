@@ -219,7 +219,7 @@ header nav .form i{
   .landing{
     min-height: 100vh;
     background-color: #1f2021;
-    background-image: url("/image/landing.jpg");
+    background-image: url("../image/landing.jpg");
     background-size: cover;
     position: relative;
   }
@@ -358,7 +358,7 @@ margin-bottom: 20px;
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url("/image/design-features.jpg");
+    background-image: url("../image/design-features.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -583,7 +583,7 @@ margin-bottom: 20px;
     padding-bottom: var(--section-padding);
     text-align: center;
     background-size: cover;
-    background-image: url("/image/stats.png");
+    background-image: url("../image/stats.png");
     position: relative;
   }
   .stats::before{
@@ -768,7 +768,7 @@ margin-bottom: 20px;
   .quote{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/image/photo.jpg");
+    background-image: url("../image/photo.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -908,7 +908,7 @@ font-size: 20px;
   .subscribe{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/image/subscribe.jpg");
+    background-image: url("../image/subscribe.jpg");
     background-size: cover;
     position: relative;
 
@@ -1085,7 +1085,7 @@ font-size: 20px;
   .footer{
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url("/image/cta-footer-bg.jpg");
+    background-image: url("../image/cta-footer-bg.jpg");
     background-size: cover;
     color: white;
     position: relative;
